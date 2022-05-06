@@ -1,0 +1,7 @@
+{
+  "name": "may6test",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
